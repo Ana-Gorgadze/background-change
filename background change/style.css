@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+button{
+    width: 600px;
+    height: 100px;
+    background-color: pink;
+    color: aliceblue;
+    border: none;
+    border-radius: 25px;
+    margin-top: 45vh;
+    font-size: 30px;
+}
